@@ -1,0 +1,30 @@
+body	{	
+background-color: PowderBlue;
+}
+
+.ids {
+	color: white;
+	font-family: lucida;
+}
+
+.notes {
+	color: blue;
+	font-family: arial;
+}
+
+#number-one {
+	color: yellow;
+	font-family: tahoma;
+}
+
+#number-two {
+	font-size: 24px;
+	font-family: verdana;
+}
+
+.first-class {
+	color: orange;
+	font-size: 30px;
+	font-family: optima;
+}
+
