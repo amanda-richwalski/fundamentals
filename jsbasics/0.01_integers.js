@@ -31,21 +31,21 @@
 //var b = 10
 //console.log(a*b);
 
-//var newer_num = 10;
-//newNum = newNum + 1;
-//console.log(newNum);
-//newNum++; //short cut for newNum = newNum + 1;
-//console.log(newNum);
+var newer_num = 10;
+newNum = newNum + 1;
+console.log(newNum);
+newNum++; //short cut for newNum = newNum + 1;
+console.log(newNum);
 
-//newNum = newNum - 1;
-//console.log(newNum);
-//newNum --;
-//console.log(newNum);
+newNum = newNum - 1;
+console.log(newNum);
+newNum --;
+console.log(newNum);
 
-//newNum = newNum + 10;
-//console.log(newNum);
+newNum = newNum + 10;
+console.log(newNum);
 
-newNum + = 10; //short cut for writing newNum = newNum + 10;
+newNum += 10; //short cut for writing newNum = newNum + 10;
 console.log(newNum);
 
 //TODO - take what you know from addition and apply it to subtraction
