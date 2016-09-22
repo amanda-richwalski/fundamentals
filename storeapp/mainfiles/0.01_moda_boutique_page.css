@@ -11,19 +11,31 @@ a:link {
 
 h1 {
 	text-align: center;
-	font-family: Papyrus;
+	font-family: Didot;
 	color: white;
 	font-size: 60px;
 }
 
+.topbar{
+    font-family: Didot;
+    color: white;
+    text-align: middle;
+    background-color: magenta;
+    border: 5px black;
+    border-radius: 15px;
+    margin: 0px    0px    0px    0px;
+
+
+}
+
 .organic{
 	text-align: center;
-	font-family: Papyrus;
+	font-family: Didot;
 	color: white;
 }
 
 #search{
-	font-family: papyrus;
+	font-family: Didot;
 	color: white;
     float: right;
     padding: 5px;
@@ -33,51 +45,70 @@ h1 {
 }
 
 #paypal{
-    float: left;
-    padding: 5px;
+    padding: 10px;
     margin: 10px 10px 0px 0px;
     width: 200px;
 
 }
 
 #dressscarf {
-    float: left;
     border-radius: 8px;
     width: 300px;
     height: 300px;
     filter: sepia(20%); 
-    border-style: groove;
+    /*border-style: groove;*/
+    /*margin: 10px 10px 0px 0px;
+    padding: 20px;*/
 }
 
 #dress {
-    float: right;
-    border-radius: 8px;
-    width: 300px;
-    height: 400px;
+    width: 100px;
+    height: 100px;
     filter: sepia(20%)
     border-style: groove;
+    /*margin: 20px 10px 0px 0px;
+    padding: 5px;*/
     
 }
 
 /*#toppants {
-    
-    display: block;
-    margin: 0 auto;
-    border-radius: 8px;*/
+    float: center
+    width: 500px;
+    height: 00px;
+    filter: sepia(20%)
+    border-style: groove;
+    margin: 20px 10px 0px 0px;
+    padding: 5px;*/
 
 
 #items{
     float: left;
     width: 300px;
     margin: 20px 0px 20px 0px;
-    font-family: papyrus;
+    font-family: Didot;
     color: white;
     list-style-type: none;
 }
 
 h5 {
-    font-family: papyrus;
+    font-family: Didot;
     color: white;  
 }
 
+#footer{
+    width: 800px;
+    font-family: Didot;
+    color: white;
+}
 
+<style type="text/css">
+ 
+#share-buttons img {
+width: 2px;
+padding: 2px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+ 
+</style>

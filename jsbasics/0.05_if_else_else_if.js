@@ -55,8 +55,7 @@ if ((numberOne % 2 === 0) && (numberOne % 3 === 0)) {
 	console.log("number is not divisable by 2 or 3")
 }
 
-
-
+//experiment with changing the order of conditionals
 
 
 
